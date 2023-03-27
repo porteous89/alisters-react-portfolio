@@ -4,11 +4,14 @@
 /node_modules
 /.pnp
 .pnp.js
+/nod
+node_modules/.cache/gh-pages
+
 
 # testing
 /coverage
 
-# productionP0rt30us
+# production
 
 /build
 
