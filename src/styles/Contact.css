@@ -1,0 +1,22 @@
+.contact-page {
+    margin-top: 80px;
+    min-height: calc(100vh - 100px);
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+    padding: 16px;
+  }
+  
+  .contact-paper {
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #21325e;
+    color: #3e497a;
+  }
+
+  @media (max-width: 600px) {
+    .contact-paper {
+      padding: 16px;
+    }
+  }
