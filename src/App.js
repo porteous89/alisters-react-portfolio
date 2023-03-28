@@ -13,14 +13,14 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/alisters-react-portfolio">
         <Navbar />
         <Routes>
           <Route path="/" element={<Home/>} />
-          <Route path="about" element={<About/>} />
-          <Route path = "projects" element={<Projects/>} />
-          <Route path = "contact" element={<Contact/>} />
-          <Route path = "experience" element={<Experience/>} />
+          <Route path="/about" element={<About/>} />
+          <Route path = "/projects" element={<Projects/>} />
+          <Route path = "/contact" element={<Contact/>} />
+          <Route path = "/experience" element={<Experience/>} />
         </Routes>
         <Footer />
       </Router>
