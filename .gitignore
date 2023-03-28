@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 /nod
-node_modules/.cache/gh-pages
+/node_modules/.cache/gh-pages
 
 
 # testing
