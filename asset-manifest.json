@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/alisters-react-portfolio/static/css/main.a2b90984.css",
+    "main.css": "/alisters-react-portfolio/static/css/main.791ebfdf.css",
     "main.js": "/alisters-react-portfolio/static/js/main.5f38f9a5.js",
     "static/js/787.029818bc.chunk.js": "/alisters-react-portfolio/static/js/787.029818bc.chunk.js",
     "static/media/dev-portfolio.png": "/alisters-react-portfolio/static/media/dev-portfolio.3086437e7840b66b58cd.png",
@@ -11,12 +11,12 @@
     "static/media/text-editor.png": "/alisters-react-portfolio/static/media/text-editor.ab540b2c965157e71824.png",
     "static/media/self.jpg": "/alisters-react-portfolio/static/media/self.d948affdec7aa3114665.jpg",
     "index.html": "/alisters-react-portfolio/index.html",
-    "main.a2b90984.css.map": "/alisters-react-portfolio/static/css/main.a2b90984.css.map",
+    "main.791ebfdf.css.map": "/alisters-react-portfolio/static/css/main.791ebfdf.css.map",
     "main.5f38f9a5.js.map": "/alisters-react-portfolio/static/js/main.5f38f9a5.js.map",
     "787.029818bc.chunk.js.map": "/alisters-react-portfolio/static/js/787.029818bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2b90984.css",
+    "static/css/main.791ebfdf.css",
     "static/js/main.5f38f9a5.js"
   ]
 }
